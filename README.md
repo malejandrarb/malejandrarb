@@ -1,4 +1,4 @@
-# Hi, I'm Alejandra Rodriguez 👋
+# Alejandra Rodriguez
 
 Business & Product Leader | AI, Fintech & Payments | Growth, GTM & Market Strategy | Mexico & LATAM
 
@@ -6,41 +6,30 @@ Business & Product Leader | AI, Fintech & Payments | Growth, GTM & Market Strate
 [![Location](https://img.shields.io/badge/Location-Mexico%20City%2C%20Mexico-008080)](https://linkedin.com/in/alejandrarodriguezb)
 [![Company](https://img.shields.io/badge/Company-Visa-1A1F71)](https://www.visa.com)
 
-### About
-I am a business and product leader focused on AI, fintech, payments, growth, and market strategy across Mexico and LATAM.
+### Executive profile
+Business and product leader with a strong track record in AI, fintech, payments, growth strategy, and market expansion across Mexico and LATAM.
 
-At Visa, I work at the intersection of customer needs, product innovation, and commercial strategy to help build sustainable growth in a dynamic digital payments environment.
+I lead at the intersection of commercial strategy, product innovation, and customer value creation—translating market opportunity into scalable growth in digital ecosystems and financial services.
 
-### Expertise
-- Product strategy and business growth
+### Focus areas
 - AI and digital transformation
 - Fintech and payments
-- GTM and market expansion
-- Strategic partnerships and commercial execution
-- LATAM market insight and cross-functional leadership
-
-### What I care about
-- Building products and strategies that create meaningful value
-- Driving growth in emerging and high-potential markets
-- Connecting technology, business, and customer experience
-- Advancing innovation in financial services and digital ecosystems
+- Growth strategy and go-to-market execution
+- Product and business leadership
+- Market expansion in LATAM
+- Strategic partnerships and commercial innovation
 
 ### Current role
-- Business & Product Leader
-- Company: Visa
-- Location: Mexico City, Mexico
+Senior business and product leader at Visa, based in Mexico City, supporting growth initiatives across strategic business opportunities in the payments and digital finance space.
 
-### Let's connect
-I’m always open to conversations around AI, fintech, product strategy, growth, and innovation in LATAM.
+### Interest
+I am particularly interested in opportunities where product vision, commercial execution, and AI-driven innovation can unlock meaningful market growth and customer impact.
 
+### Connect
 [LinkedIn](https://linkedin.com/in/alejandrarodriguezb)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malejandrarb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=malejandrarb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=malejandrarb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile stats" />
 </p>
